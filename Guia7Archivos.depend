@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1687613262 source:c:\users\usuario\desktop\c\tps programacion\guia7archivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"pila.h"
+
+1490112217 source:c:\users\usuario\desktop\c\tps programacion\guia7archivos\pila.c
+	"pila.h"
+
+1490112217 c:\users\usuario\desktop\c\tps programacion\guia7archivos\pila.h
+	<stdio.h>
+	<malloc.h>
+
